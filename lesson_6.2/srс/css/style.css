@@ -1,0 +1,18 @@
+body{
+	background: black;
+}
+
+.box{
+	width: 300px;
+	height: 400px;
+	border: 6px solid grey; 
+	background: white;
+	padding: 20px 30px 30px 20px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -181px;
+	margin-top: -231px;
+
+	
+}
