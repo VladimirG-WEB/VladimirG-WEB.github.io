@@ -3,9 +3,9 @@
 
 ## Мои домашние задания
 
-1.[Урок 2](VladimirG-WEB.github.io/lesson_2 "ДЗ 2") - Работа с графикой для разработчика
+1.[Урок 2](lesson_2 "ДЗ 2") - Работа с графикой для разработчика
 
-2.[Урок 3](VladimirG-WEB.github.io/lesson_3 "ДЗ 3") - Настройка рабочего пространства
+2.[Урок 3](lesson_3 "ДЗ 3") - Настройка рабочего пространства
 
 3.[Урок 4](VladimirG-WEB.github.io/lesson_4/index.html "ДЗ 4") - Знакомство с основами HTML
 
@@ -21,9 +21,9 @@
 
 8.[Урок 9](VladimirG-WEB.github.io/lesson_9/src/index.html "ДЗ 9") - Верстка при помощи Bootstrap 3
 
-9.[Урок 10](VladimirG-WEB.github.io/lesson_10/src "ДЗ 10") - Предпроцессор LESS для CSS  
+9.[Урок 10](src "ДЗ 10") - Предпроцессор LESS для CSS  
 
-10.[Урок 11](VladimirG-WEB.github.io/lesson_11 "ДЗ 11") - Сниппеты
+10.[Урок 11](lesson_11 "ДЗ 11") - Сниппеты
 
 
 
