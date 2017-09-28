@@ -21,7 +21,7 @@
 
 8.[Урок 9](https://vladimirg-web.github.io/lesson_9/src/index.html "ДЗ 9") - Верстка при помощи Bootstrap 3
 
-9.[Урок 10](https://vladimirg-web.github.io/lesson_9/src/index.html "ДЗ 10") - Предпроцессор LESS для CSS  
+9.[Урок 10](VladimirG-WEB.github.io/lesson_10/src/ "ДЗ 10") - Предпроцессор LESS для CSS  
 
 10.[Урок 11](VladimirG-WEB.github.io/lesson_11 "ДЗ 11") - Сниппеты
 
