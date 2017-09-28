@@ -1,0 +1,22 @@
+h1{
+	font-style: 36px;
+	text-transform: uppercase;
+	font-weight: 300;
+	margin-bottom: 120px;
+	text-align: center;
+	margin-top: 140px;
+}
+.container {	
+	padding: 30px;
+	text-align: center;	
+}
+
+
+img {
+	padding: 10px;
+
+}
+
+p{
+	margin-top: 30px;
+}
