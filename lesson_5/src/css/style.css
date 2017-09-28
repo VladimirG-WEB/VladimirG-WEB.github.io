@@ -1,0 +1,49 @@
+body {
+	background-color: #a87979;
+	font-size: 25px;
+
+}
+
+h1{
+	text-align: center;
+}
+
+.nachalo{
+	text-transform: uppercase;
+}
+
+.podcherk {
+	text-decoration: underline;
+	color: blue;
+}
+
+.shirnost {
+	font-weight: 900;
+	/*color:green;*/
+}
+
+.text-zacherkivanie {
+	text-decoration: line-through;
+	color:green;
+}
+
+.kursiv {
+	font-style: italic;
+	color: red;
+}
+
+img{
+	border: 6px dotted red;
+	
+}
+
+hr{
+	border: 4px inset green;
+}
+
+li a{
+	color: black;
+	text-decoration-line: none;
+	font-size: 30px;
+}
+
