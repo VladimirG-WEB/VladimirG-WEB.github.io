@@ -1,0 +1,60 @@
+header{
+	background: #000000;
+	position: fixed;
+	width: 100%;
+	left: 0;
+	top: 0;
+	display: inline;
+	height: 60px;
+}
+
+.ssilka {
+	display: inline-block;
+	position: absolute;
+	left: 35%;
+}
+
+span {
+	color: white;
+	font-size: 30px;
+	margin-left: 40px;
+	margin-bottom: 40px;
+	display: inline-block;
+}
+
+.ssilka a{
+	display: inline;
+	color: white;
+	font-size: 30px;
+	width: 100%;
+	position: relative;
+	padding-right: 20px;
+	left: 50% ;
+	text-decoration-line: none;
+}
+
+main{
+	margin-top: 65px;
+	font-size: 20px;
+	margin-left: 15px;
+	text-align: justify;
+	margin-right: 10px
+
+		
+}
+ 
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+	
+img{
+	margin:6px;
+	display: inline-block;  
+}
+
+h2{
+	text-decoration: underline;
+}
+
