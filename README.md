@@ -7,7 +7,7 @@
 
 2.[Урок 3](VladimirG-WEB.github.io/lesson_3 "ДЗ 3") - Настройка рабочего пространства
 
-3.[Урок 4](VladimirG-WEB.github.io/lesson_4/ index.html "ДЗ 4") - Знакомство с основами HTML
+3.[Урок 4](VladimirG-WEB.github.io/lesson_4/index.html "ДЗ 4") - Знакомство с основами HTML
 
 4.[Урок 5](VladimirG-WEB.github.io/lesson_5/src/index.html "ДЗ 5") - Знакомство с основами CSS  
 
