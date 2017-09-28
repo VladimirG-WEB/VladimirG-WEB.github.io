@@ -12,7 +12,7 @@
 
 5.[Урок 6](VladimirG-WEB.github.io/lesson_6/srс/ "ДЗ 6") - Позиционирование CSS 
 
-...* [Урок 6.2](VladimirG-WEB.github.io/lesson_6.2/srс/ "ДЗ 6.2") - Позиционирование CSS/2
+   * [Урок 6.2](VladimirG-WEB.github.io/lesson_6.2/srс/ "ДЗ 6.2") - Позиционирование CSS/2
 
 6.[Урок 7](VladimirG-WEB.github.io/lesson_7/ "ДЗ 7") - Верстка первого макета
 
