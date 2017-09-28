@@ -3,7 +3,7 @@
 
 ## Мои домашние задания
 
-1.[Урок 2](lesson_2 "ДЗ 2") - Работа с графикой для разработчика
+1.[Урок 2](VladimirG-WEB.github.io/lesson_2 "ДЗ 2") - Работа с графикой для разработчика
 
 2.[Урок 3](VladimirG-WEB.github.io/lesson_3/ "ДЗ 3") - Настройка рабочего пространства
 
@@ -19,9 +19,9 @@
 
 7.[Урок 8](VladimirG-WEB.github.io/lesson_8/ "ДЗ 8") - Ускорение верстки в разы
 
-8.[Урок 9](VladimirG-WEB.github.io/lesson_9/ "ДЗ 9") - Верстка при помощи Bootstrap 3
+8.[Урок 9](VladimirG-WEB.github.io/lesson_9/src/index.html "ДЗ 9") - Верстка при помощи Bootstrap 3
 
-9.[Урок 10](VladimirG-WEB.github.io/lesson_10/src/ "ДЗ 10") - Предпроцессор LESS для CSS  
+9.[Урок 10](VladimirG-WEB.github.io/lesson_10/ "ДЗ 10") - Предпроцессор LESS для CSS  
 
 10.[Урок 11](VladimirG-WEB.github.io/lesson_11/ "ДЗ 11") - Сниппеты
 
