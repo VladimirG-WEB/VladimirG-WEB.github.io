@@ -1,0 +1,127 @@
+@f-size: 1.5rem;
+@f-size-2: 1.8rem;
+@font-f: 'museo_reg', sans-serif;
+@color-light-black: #1b1b1b;
+@color-grey: #454545;
+@color-grey-2: #515151;
+@color-white: #ffffff;
+@bg-light-blue: #5ba2a9;
+@bg-light-blue-2: #488389;
+@bg-size: 2rem;
+@text-t: uppercase;
+@text-a: center;
+@text-d: none;
+html {
+	font-size: 10px;
+}
+body {
+	font-family: @font-f;
+}
+section {
+	padding: 4rem 0 8rem;
+}
+
+a {
+&:hover, 
+&:focus, 
+&:active{
+	text-decoration: @text-d;
+	}
+}
+button:focus, input:focus, a:focus, textarea:focus{
+	outline: none;
+}
+h1, h2, h3, h4, h5, h6, p{
+	margin: 0;
+}
+.feedback-forms-all{
+	padding: 6rem 0 9rem 0;
+}
+.section-title{
+	margin-bottom: 6rem;
+	text-align: @text-a;
+	text-transform: @text-t;
+	font-family: @font-f;
+	font-size: 3rem;
+	color: @color-light-black;
+	& .upper-icon-wrapper::before, .upper-icon-wrapper::after{
+		content: '';
+		display: inline-block;
+		width: 1.5rem;
+		height: 0.5rem;
+		margin-bottom: 15px;
+		background-color: @bg-light-blue;
+	}
+	& .upper-icon-wrapper .upper-icon{
+		margin-bottom: 1.5rem;
+		width: 2rem;
+		height: 2rem;
+	}
+}
+.feedback-form-statement{
+	padding: 6rem 0 0;
+}
+.feedback-form-title{
+	margin-bottom: 6rem;
+	text-align: @text-a;
+}
+.feedback-form-title h3{
+	margin-bottom: 1.2rem;
+	font-family: @font-f;
+	font-size: 2.5rem;
+	color:@color-light-black;
+	}
+.feedback-form-title p{
+	font-size: @f-size-2;
+	}
+.feedback-form-input{
+	position: relative;
+	width: 100%;
+	padding: 1.4rem 4.5rem 1.4rem 1.4rem;
+	border: 2px solid #d0d0d0;
+	opacity: .5;
+	color: @color-grey;
+	-webkit-transition:0.3s;
+	-moz-transition: 0.3s;
+	-ms-transition: 0.3s;
+	transition: 0.3s;	
+	&::-webkit-input-placeholder,
+	&::-ms-input-placeholder,
+	&::-moz-placeholder{
+	color: @color-grey-2;
+  	font-size: @f-size;
+	}
+	&:hover,
+	&:focus{
+		opacity:1;
+	}
+}	
+.feedback-form {
+	.input-user{
+	background: url(../img/shared/feedback/person-icon.svg) right 1.5rem center no-repeat;
+  	background-size: @bg-size;
+  	}
+	.input-phone{	
+	background: url(../img/shared/feedback/telephone-icon.svg) right 1.5rem center no-repeat;
+  	background-size: @bg-size;
+	}	
+}
+.feedback-form-btn{
+	min-width: 100%;
+	padding: 1.2rem 0;
+	background-color: @bg-light-blue;
+	text-transform: @text-t;
+	border: none;
+	color: @color-white;
+	font-size:  @f-size-2;
+	-webkit-transition: 0.4s;
+	transition: 0.4s;
+	&:hover{
+		background-color: @bg-light-blue-2;
+		border-radius: 10px;
+	}
+	&.title-feedback,
+	&.discripton-feedback{
+		display: block;
+	}
+}
