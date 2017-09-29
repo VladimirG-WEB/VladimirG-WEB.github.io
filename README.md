@@ -24,6 +24,8 @@
 9.[Урок 10](VladimirG-WEB.github.io/lesson_10/src/ "ДЗ 10") - Предпроцессор LESS для CSS  
 
 10.[Урок 11](VladimirG-WEB.github.io/lesson_11 "ДЗ 11") - Сниппеты
+11.[Урок 12]( "ДЗ 12") -
+12.[Урок 13](https://vladimirg-web.github.io/lesson_13/src/index.html "ДЗ 13") - Адаптивная вёрстка
 
 
 
