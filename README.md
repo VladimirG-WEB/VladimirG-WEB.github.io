@@ -29,6 +29,8 @@
 
 12.[Урок 13](https://vladimirg-web.github.io/lesson_13/src/index.html "ДЗ 13") - Адаптивная вёрстка
 
+   13.[Практика 1](https://vladimirg-web.github.io/Practika_1/src/index.html "Практика") - Подготовка файлов. Верстка шапки сайта. 
+
 
 
 
