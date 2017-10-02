@@ -1,0 +1,55 @@
+@font-face {
+	font-family: "BebasRegular";
+	src: url("../fonts/BebasRegular/BebasRegular.eot");
+	src: url("../fonts/BebasRegular/BebasRegular.eot?#iefix")format("embedded-opentype"),
+	   	url("../fonts/BebasRegular/BebasRegular.woff") format("woff"),
+		url("../fonts/BebasRegular/BebasRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "LatoRegular";
+	src: url("../fonts/LatoRegular/LatoRegular.eot");
+	src: url("../fonts/LatoRegular/LatoRegular.eot?#iefix")format("embedded-opentype"),
+		url("../fonts/LatoRegular/LatoRegular.woff") format("woff"),
+		url("../fonts/LatoRegular/LatoRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+	}
+
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+.openS {
+	font-size: 1.8rem;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.beb{
+	font-size: 1.8rem;
+	font-family: 'BebasRegular', sans-serif;
+}
+
+.lat{
+	font-size: 1.8rem;
+	font-family: 'LatoRegular' sans-serif;
+}
+
+.lob {
+	font-size: 1.8rem;
+	font-family: 'Lobster', cursive;
+}
+
+small {
+	font-size: 1.3rem;
+}
