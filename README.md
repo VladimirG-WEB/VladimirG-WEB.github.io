@@ -49,7 +49,7 @@
 
    1. [Практика 1](https://vladimirg-web.github.io/Practika_1/src/index.html "Практика") - Подготовка файлов. Верстка шапки сайта.
    
-   2. В процессе
+   2. [Практика 2](https://vladimirg-web.github.io/Practika_2/src/index.html "Практика") - Подключение шрифтов. Верстка первого экрана. 
    
 
 
