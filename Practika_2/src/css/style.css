@@ -119,11 +119,10 @@ section {
   margin-top: 1.5rem;
 }
 .main .pod {
-  margin-top: 4rem;
-  margin-left: 3rem;
+  margin-top: 3rem;
   font-family: 'ProximaNova_Reg', sans-serif;
   font-size: 1.2rem;
-  text-align: left;
+  text-align: center;
 }
 .header {
   height: 7rem;
