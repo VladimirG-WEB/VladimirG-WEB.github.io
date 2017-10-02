@@ -3,7 +3,7 @@
 
 ## Мои домашние задания
 
-
+* * * * *
 
 # Модуль-1
 
@@ -41,7 +41,9 @@
 
 12.[Урок 13](https://vladimirg-web.github.io/lesson_13/src/index.html "ДЗ 13") - Адаптивная вёрстка
 
-13.[Урок 14](https://vladimirg-web.github.io/lesson_14/src/index.html "ДЗ 14") - Подключение шрифтов. 
+13.[Урок 14](https://vladimirg-web.github.io/lesson_14/src/index.html "ДЗ 14") - Подключение шрифтов.
+
+* * * * *
 
 # Практика
 
