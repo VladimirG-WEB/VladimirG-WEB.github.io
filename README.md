@@ -43,13 +43,17 @@
 
 13.[Урок 14](https://vladimirg-web.github.io/lesson_14/src/index.html "ДЗ 14") - Подключение шрифтов.
 
+14.[Урок 15](https://vladimirg-web.github.io/lesson_15/src/index.html "ДЗ 15") - Псевдоклассы и псевдоэлементы. 
+
 * * * * *
 
 # Практика
 
    1. [Практика 1](https://vladimirg-web.github.io/Practika_1/src/index.html "Практика") - Подготовка файлов. Верстка шапки сайта.
    
-   2. [Практика 2](https://vladimirg-web.github.io/Practika_2/src/index.html "Практика") - Подключение шрифтов. Верстка первого экрана. 
+   2. [Практика 2](https://vladimirg-web.github.io/Practika_2/src/index.html "Практика") - Подключение шрифтов. Верстка первого экрана.
+   
+   3. [Практика 3] - В процессе
    
 
 
