@@ -53,7 +53,7 @@
    
    2. [Практика 2](https://vladimirg-web.github.io/Practika_2/src/index.html "Практика") - Подключение шрифтов. Верстка первого экрана.
    
-   3. [Практика 3] - В процессе
+   3. [Практика 3](https://vladimirg-web.github.io/Practika_3/src/index.html "Практика") - Эффекты при наведении и адаптив первого экрана 
    
 
 
