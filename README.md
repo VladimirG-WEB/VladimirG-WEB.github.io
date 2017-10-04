@@ -45,7 +45,7 @@
 
 14.[Урок 15](https://vladimirg-web.github.io/lesson_15/src/index.html "ДЗ 15") - Псевдоклассы и псевдоэлементы. 
 
-15.[Урок 16]("ДЗ 16") - в процессе
+15.[Урок 16](https://vladimirg-web.github.io/lesson_16/src/index.html "ДЗ 16") - Слайдер на сайте. 
 
 * * * * *
 
