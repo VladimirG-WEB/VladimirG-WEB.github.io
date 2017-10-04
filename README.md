@@ -45,6 +45,8 @@
 
 14.[Урок 15](https://vladimirg-web.github.io/lesson_15/src/index.html "ДЗ 15") - Псевдоклассы и псевдоэлементы. 
 
+15.[Урок 16]("ДЗ 16") - в процессе
+
 * * * * *
 
 # Практика
@@ -55,6 +57,7 @@
    
    3. [Практика 3](https://vladimirg-web.github.io/Practika_3/src/index.html "Практика") - Эффекты при наведении и адаптив первого экрана 
    
+   4. [Практика 4](https://vladimirg-web.github.io/practika_4/src/index.html "Практика") - Верстка блока с преимуществами. Слайдер. 
 
 
 
