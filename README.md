@@ -47,6 +47,8 @@
 
 15.[Урок 16](https://vladimirg-web.github.io/lesson_16/src/index.html "ДЗ 16") - Слайдер на сайте. 
 
+16.[Урок 17](https://vladimirg-web.github.io/lesson_17/src/index.html "ДЗ 17") - Всплывающие окна. 
+
 * * * * *
 
 # Практика
@@ -58,6 +60,8 @@
    3. [Практика 3](https://vladimirg-web.github.io/Practika_3/src/index.html "Практика") - Эффекты при наведении и адаптив первого экрана 
    
    4. [Практика 4](https://vladimirg-web.github.io/practika_4/src/index.html "Практика") - Верстка блока с преимуществами. Слайдер. 
+   
+   5. [Практика 5] -() В процессе
 
 
 
