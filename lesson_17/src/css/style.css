@@ -1,0 +1,61 @@
+html {
+  font-size: 10px;
+}
+header {
+  width: 100%;
+  left: 0;
+  position: relative;
+  color: #ffffff;
+  background: #000000;
+  margin-bottom: 5rem;
+}
+.icons {
+  position: relative;
+  display: inline-block;
+  margin-left: 2rem;
+}
+.icons img {
+  border-radius: 10rem;
+}
+.menu {
+  position: absolute;
+  right: 10rem;
+  padding-top: 3.5rem;
+  display: inline-block;
+}
+.menu a {
+  text-decoration: none;
+  color: #ffffff;
+  margin-right: 2.5rem;
+  font-size: 2rem;
+}
+.menu a:hover {
+  color: grey;
+  cursor: pointer;
+}
+.container .one,
+.container .two,
+.container .three {
+  margin-right: 10rem;
+  display: inline-block;
+}
+.container .one button,
+.container .two button,
+.container .three button {
+  display: block;
+  margin-top: 3rem;
+}
+.modal-body img {
+  width: 100%;
+}
+.modal-body p {
+  text-align: center;
+  font-size: 2rem;
+}
+.text {
+  margin-bottom: 10rem;
+}
+.text span {
+  text-decoration: underline;
+  font-size: 2rem;
+}

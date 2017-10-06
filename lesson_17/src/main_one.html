@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Модальные окна</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+  	<header>
+  		<div class="icons">		
+  			<img src="img/ori.jpg" width="100" height="100" alt="Какая-то иконка">
+  		</div>
+  		<div class="menu">
+        <a href="index.html">На главную(Рабочая)</a>
+        <a href="index.html">Назад(Она рабочая)</a>
+  			<a href="#">Какая-то ссылка</a>
+  			<a href="#">Какая-то ссылка</a>
+  			<a href="#">Какая-то ссылка</a>
+  		</div>
+  	</header>
+  	<div class="container">
+		<div class="two">
+			<a class="link" href="#"><img src="img/2.jpg" width="230" height="230" alt=""></a>
+			<button class="btn btn-success btn-lg" data-toggle="modal" data-target="#two-modal">Нажми на меня</button>
+		</div>
+		<div class="three">
+			<a class="link" href="#"><img src="img/3.jpg" width="300" alt=""></a>
+			<button class="btn btn-success btn-lg" data-toggle="modal" data-target="#three-modal">Нажми на меня</button>
+		</div>
+  	</div>
+    <!-- Первое окно -->
+  	<div class="modal fade" id="two-modal">
+  	  <div class="modal-dialog">
+  	    <div class="modal-content">
+  	      <div class="modal-header">
+  	        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+  	        <h4 class="modal-title">Привет, я первое окно</h4>
+  	      </div>
+  	      <div class="modal-body">
+  	        <img src="img/2.jpg" alt="">
+  	        <p>Посмотри внимательней на этого щеночка! <br>Ты правда хочешь его удалить?&hellip;</p>
+  	      </div>
+  	      <div class="modal-footer">
+  	        <button type="button" class="btn btn-default" data-dismiss="modal">Назад</button>
+  	        <a href="main_one_two.html"><button type="button" class="btn btn-primary">Удалить</button></a>
+  	      </div>
+  	    </div><!-- /.modal-content -->
+  	  </div><!-- /.modal-dialog -->
+  	</div><!-- /.modal -->
+
+	<!--Второе окно  -->
+
+  	<div class="modal fade" id="three-modal">
+  	  <div class="modal-dialog">
+  	    <div class="modal-content">
+  	      <div class="modal-header">
+  	        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+  	        <h4 class="modal-title">Привет, я второе  окно</h4>
+  	      </div>
+  	      <div class="modal-body">
+  	        <img src="img/3.jpg" alt="">
+  	        <p>Посмотри внимательней на этого Енотика! <br>Ты правда хочешь его удалить?&hellip;</p>
+  	      </div>
+  	      <div class="modal-footer">
+  	        <button type="button" class="btn btn-default" data-dismiss="modal">Назад</button>
+  	        <a href="main_one_three.html"><button type="button" class="btn btn-primary">Удалить</button></a>
+  	      </div>
+  	    </div><!-- /.modal-content -->
+  	  </div><!-- /.modal-dialog -->
+  	</div><!-- /.modal -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  </body>
+</html>
