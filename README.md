@@ -61,7 +61,7 @@
    
    4. [Практика 4](https://vladimirg-web.github.io/practika_4/src/index.html "Практика") - Верстка блока с преимуществами. Слайдер. 
    
-   5. [Практика 5] -() В процессе
+   5. [Практика 5](https://vladimirg-web.github.io/Practika_5/src/index.html "Практика") - Верстка всплывающих окон на сайте 
 
 
 
