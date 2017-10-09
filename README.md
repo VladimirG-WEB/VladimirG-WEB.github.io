@@ -49,6 +49,8 @@
 
 16.[Урок 17](https://vladimirg-web.github.io/lesson_17/src/index.html "ДЗ 17") - Всплывающие окна. 
 
+17.[Урок 18](https://vladimirg-web.github.io/lesson_18/src/index.html "ДЗ 18") - Табы и аккордеон на сайте. 
+
 * * * * *
 
 # Практика
@@ -62,6 +64,8 @@
    4. [Практика 4](https://vladimirg-web.github.io/practika_4/src/index.html "Практика") - Верстка блока с преимуществами. Слайдер. 
    
    5. [Практика 5](https://vladimirg-web.github.io/Practika_5/src/index.html "Практика") - Верстка всплывающих окон на сайте 
+   
+   6. [Практика 6] - В процессе
 
 
 
