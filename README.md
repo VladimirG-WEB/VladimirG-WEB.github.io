@@ -65,7 +65,7 @@
    
    5. [Практика 5](https://vladimirg-web.github.io/Practika_5/src/index.html "Практика") - Верстка всплывающих окон на сайте 
    
-   6. [Практика 6] - В процессе
+   6. [Практика 6](https://vladimirg-web.github.io/Practika_6/src/index.html "Практика") - Верстка блока с ценами
 
 
 
