@@ -11,7 +11,7 @@ body {
 	height: 34px;
 	width: 100%;
 	margin-left: 20px;
-	margin-bottom: 14px;
+	margin-bottom: 12px;
 	border-radius: 6px;
 	font-size: 24px;
 	text-shadow: -3px -3px 4px rgba(0,0,0,.3);
@@ -101,9 +101,10 @@ body {
 
 .sign {
 	position: relative;
+	display: block;
 	width: 125px;
 	height: 35px;
-	left: 500px;
+	left: 511px;
 	bottom: 50px;
 	text-align: center;
 	padding-top: 5px;
@@ -112,6 +113,12 @@ body {
 	background-color: #ba1b02;
 	color: #ffffff;
 	cursor: pointer;
+}
+
+.sign img{
+	position: absolute;
+	right: 0;
+	top: 40px;
 }
 
 .next_lesson a{
