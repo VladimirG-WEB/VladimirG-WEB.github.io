@@ -1,0 +1,59 @@
+body {
+	font-family: 'Ubuntu', sans-serif;
+	background: url(../img/bg_accordion.jpg) center center no-repeat;
+}
+
+.header{
+	margin-top: 30px;
+	line-height: 15px;
+}
+
+.header h1 {
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 36px;
+	font-weight: 900;
+	color: #0bbaf0;	
+}
+
+.header p{
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: 400;
+	font-size: 24px;
+	color: #0bbaf0;
+}
+
+.accordion {
+	margin-left: 4px;
+	margin-top: 80px;
+	width: 600px;
+}
+
+.accordion_item {
+	border: none;
+	margin-top: 3px;
+}
+
+.title_block {
+	background-color: #0bbaf0;
+	color: #ffffff;
+	font-size: 23px;
+	font-weight: 400;
+	cursor:pointer;
+  	padding:10px 55px 10px 15px;
+}
+
+.info {
+	display:none;
+	padding:10px 15px;
+	overflow: hidden;
+	background: #ffffff;
+	width: 580px;
+	margin-left: 10px;
+	border-right: 4px solid #dcdcdc;
+	border-left: 4px solid #dcdcdc;
+	border-bottom: 4px solid #dcdcdc;
+	border-radius: 4px;
+	font-size: 15px;
+}

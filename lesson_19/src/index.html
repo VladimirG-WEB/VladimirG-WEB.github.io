@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+
+    <link rel="icon" href="/favicon.ico">
+    <title>Табы</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/style_two.css">
+    <link href="css/style.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <div class="container">
+    	<div id="wr-tabs">
+    		<div class="tabs">
+    			<div class="tab active wow fadeInDown" data-wow-delay="0.3s">Вход</div>
+    			<div class="tab wow fadeInUp" data-wow-delay="0.5s">Регистрация</div>
+                <div class="tab tab-ak wow pulse" data-wow-delay="0.8s" data-wow-iteration="infinite">Аккардеон</div>
+    		</div>
+    		<div class="content">
+    			<div class="tab-cont active">
+    				<form class="form" action="#">
+    					<input class="form-input form-input-name wow fadeInRight" data-wow-delay="0.8s" type="text" placeholder="Ваше имя">
+    					<input class="form-input wow fadeInLeft" data-wow-delay="0.8s" type="text" placeholder="Пароль">
+    					<p class="password wow fadeInRight" data-wow-delay="0.9s"><a href="">Забыли пароль?</a></p>
+    					<p class="remind"><input type="checkbox"> Напомнить мне</p>
+    					<div class="sign wow bounce" data-wow-iteration="3">	
+    						<span>Войти</span>
+                            <img src="img/flaps_left.svg" alt="">
+    					</div>
+    				</form>
+    			</div>
+    			<div class="tab-cont">  				
+    			</div>
+                <div class="tab-cont">
+                    <div class="header">
+                      <h1 class="wow fadeInUp" data-wow-delay="0.1s">Ответы на вопросы</h1>
+                      <p class="wow fadeInDown" data-wow-delay="0.2s">Кторые нам задают чаще всего</p>
+                    </div>
+                    <div class="container">
+                     <div class="accordion">
+                         <section class="accordion_item wow fadeInLeft" data-wow-delay="0.3s">
+                             <h3 class="title_block">Сколько времени может занять быстрая уборка 3-х комнатной квартиры?</h3>
+                             <div class="info">
+                                Быстрая уборка 3 комнатной квартиры, которая включает в себя мытье полов, протирку пыли и зеркал занимает около 3 часов. Но, конечно, многое зависит от степени загрязненности и заставленности комнат.
+                             </div>
+                         </section>
+                         <section class="accordion_item wow fadeInLeft" data-wow-delay="0.5s">
+                             <h3 class="title_block">Сколько времени может занять быстрая уборка 3-х комнатной квартиры?</h3>
+                             <div class="info">
+                                Быстрая уборка 3 комнатной квартиры, которая включает в себя мытье полов, протирку пыли и зеркал занимает около 3 часов. Но, конечно, многое зависит от степени загрязненности и заставленности комнат.
+                             </div>
+                         </section>
+                         <section class="accordion_item wow fadeInLeft" data-wow-delay="0.7s">
+                             <h3 class="title_block">Сколько времени может занять быстрая уборка 3-х комнатной квартиры?</h3>
+                             <div class="info">
+                                 Быстрая уборка 3 комнатной квартиры, которая включает в себя мытье полов, протирку пыли и зеркал занимает около 3 часов. Но, конечно, многое зависит от степени загрязненности и заставленности комнат.
+                             </div>
+                         </section>
+                         <section class="accordion_item wow fadeInLeft" data-wow-delay="0.9s">
+                             <h3 class="title_block">Сколько времени может занять быстрая уборка 3-х комнатной квартиры?</h3>
+                             <div class="info">
+                                 Быстрая уборка 3 комнатной квартиры, которая включает в себя мытье полов, протирку пыли и зеркал занимает около 3 часов. Но, конечно, многое зависит от степени загрязненности и заставленности комнат.
+                             </div>
+                         </section>
+                         <section class="accordion_item wow fadeInLeft" data-wow-delay="1.1s">
+                             <h3 class="title_block">Сколько времени может занять быстрая уборка 3-х комнатной квартиры?</h3>
+                             <div class="info">
+                                 Быстрая уборка 3 комнатной квартиры, которая включает в себя мытье полов, протирку пыли и зеркал занимает около 3 часов. Но, конечно, многое зависит от степени загрязненности и заставленности комнат.
+                             </div>
+                         </section>
+                     </div>   
+                    </div>                    
+                </div>
+    		</div>
+    	</div>
+    </div>
+     <script src="js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script>
+     var wow=new WOW()
+     .init();
+    </script>
+       <script type="text/javascript">
+    ! function(i) {
+      var o, n;
+      i(".title_block").on("click", function() {
+        o = i(this).parents(".accordion_item"), n = o.find(".info"),
+          o.hasClass("active_block") ? (o.removeClass("active_block"),
+            n.slideUp()) : (o.addClass("active_block"), n.stop(!0, !0).slideDown(),
+            o.siblings(".active_block").removeClass("active_block").children(
+              ".info").stop(!0, !0).slideUp())
+      })
+    }(jQuery);
+   </script>
+    <script>
+    	$(function(){
+
+    		$("#wr-tabs").on("click",".tab", ".tab-ak", function(){
+
+    			var tabs = $("#wr-tabs .tab"),
+    			    cont = $("#wr-tabs .tab-cont");
+
+    			// Удаляем классы active
+    			tabs.removeClass("active");
+    			cont.removeClass("active");
+    			// Добавляем классы active
+    			$(this).addClass("active");
+    			cont.eq($(this).index()).addClass("active");
+
+    			return false;
+    		});
+    	});
+    </script>
+  </body>
+</html>
