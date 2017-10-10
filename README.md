@@ -11,6 +11,8 @@
 
 2.[Урок 3](VladimirG-WEB.github.io/lesson_3 "ДЗ 3") - Настройка рабочего пространства
 
+* * * * *
+
 # Модуль-2
 
 3.[Урок 4](https://vladimirg-web.github.io/lesson_4/index.html "ДЗ 4") - Знакомство с основами HTML
@@ -21,6 +23,8 @@
 
    * [Урок 6.2](https://vladimirg-web.github.io/lesson_6.2/sr%D1%81/index.html "ДЗ 6.2") - Позиционирование CSS/2
 
+* * * * *
+
 # Модуль-3
 
 6.[Урок 7](https://vladimirg-web.github.io/lesson_7/src/index.html "ДЗ 7") - Верстка первого макета
@@ -29,6 +33,8 @@
 
 8.[Урок 9](https://vladimirg-web.github.io/lesson_9/src/index.html "ДЗ 9") - Верстка при помощи Bootstrap 3
 
+* * * * *
+
 # Модуль-4
 
 9.[Урок 10](VladimirG-WEB.github.io/lesson_10/src/ "ДЗ 10") - Предпроцессор LESS для CSS  
@@ -36,6 +42,8 @@
 10.[Урок 11](VladimirG-WEB.github.io/lesson_11 "ДЗ 11") - Сниппеты
 
 11.[Урок 12](VladimirG-WEB.github.io/lesson_12/ "ДЗ 12") - Хостинг от GitHub 
+
+* * * * *
 
 # Модуль-5
 
@@ -50,6 +58,10 @@
 16.[Урок 17](https://vladimirg-web.github.io/lesson_17/src/index.html "ДЗ 17") - Всплывающие окна. 
 
 17.[Урок 18](https://vladimirg-web.github.io/lesson_18/src/index.html "ДЗ 18") - Табы и аккордеон на сайте. 
+
+* * * * *
+
+# Модуль-6
 
 18.[Урок 19](https://vladimirg-web.github.io/lesson_19/src/index.html "ДЗ 19") - Анимация на CSS3. 
 
