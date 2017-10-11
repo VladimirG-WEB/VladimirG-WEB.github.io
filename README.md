@@ -85,6 +85,8 @@
    
    7. [Практика 7](https://vladimirg-web.github.io/Practika_7/src/index.html "Практика") - Верстка блока с отзывами 
    
+   8. [Практека 8](https://vladimirg-web.github.io/Practika_8/src/index.html "Практика") - Доверстали блок с отзывами 
+   
 
 * * * * *
 
