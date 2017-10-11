@@ -83,8 +83,10 @@
    
    6. [Практика 6](https://vladimirg-web.github.io/Practika_6/src/index.html "Практика") - Верстка блока с ценами
    
-   7. [Практика 7]( ) - В процессе
+   7. [Практика 7](https://vladimirg-web.github.io/Practika_7/src/index.html "Практика") - Верстка блока с отзывами 
+   
 
+* * * * *
 
 
 
