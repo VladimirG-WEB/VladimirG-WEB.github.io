@@ -517,14 +517,13 @@ section {
     padding-left: 1.5rem;
     padding-right: 1.5rem;
   }
-  .price-button {
-    position: relative;
-    top: 185rem;
-    left: 0;
-  }
+	.price-button {
+		position: absolute;
+		top: 172rem;
+		left: 1.5rem;
   .price-button .price-header-btn {
-    width: 42rem;
-    height: 6rem;
+			width: 42rem;
+			height: 6rem;
   }
   .price-list {
     display: none ;
