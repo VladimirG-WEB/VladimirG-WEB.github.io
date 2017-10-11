@@ -63,7 +63,9 @@
 
 # Модуль-6
 
-18.[Урок 19](https://vladimirg-web.github.io/lesson_19/src/index.html "ДЗ 19") - Анимация на CSS3. 
+18.[Урок 19](https://vladimirg-web.github.io/lesson_19/src/index.html "ДЗ 19") - Анимация на CSS3.
+
+19.[Урок 20](https://vladimirg-web.github.io/lesson_20/src/index.html "ДЗ 20") - Видео-фон на сайте. 
 
 * * * * *
 
