@@ -89,7 +89,7 @@
    
    8. [Практека 8](https://vladimirg-web.github.io/Practika_8/src/index.html "Практика") - Доверстали блок с отзывами 
    
-   9. [Практика 9]() - В процессе
+   9. [Практика 9](https://vladimirg-web.github.io/Practika_9/src/index.html "Практика") - Верстаем схему работы и все включено 
    
 
 * * * * *
