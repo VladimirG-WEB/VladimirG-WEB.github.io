@@ -67,6 +67,8 @@
 
 19.[Урок 20](https://vladimirg-web.github.io/lesson_20/src/index.html "ДЗ 20") - Видео-фон на сайте. 
 
+20.[Урок 21](https://vladimirg-web.github.io/lesson_21/index.html "ДЗ 21") - Parallax эффект для сайта. 
+
 * * * * *
 
 # Практика
@@ -86,6 +88,8 @@
    7. [Практика 7](https://vladimirg-web.github.io/Practika_7/src/index.html "Практика") - Верстка блока с отзывами 
    
    8. [Практека 8](https://vladimirg-web.github.io/Practika_8/src/index.html "Практика") - Доверстали блок с отзывами 
+   
+   9. [Практика 9]() - В процессе
    
 
 * * * * *
