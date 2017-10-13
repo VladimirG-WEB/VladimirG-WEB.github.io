@@ -525,6 +525,9 @@ section {
   .hand {
     display: none;
   }
+  .scheme {
+    background: none;
+  }
 }
 @media (max-width: 767px) {
   .main {
