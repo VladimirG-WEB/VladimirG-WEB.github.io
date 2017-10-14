@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<link rel="icon" href="/favicon.ico">
+	<title>Гео-карта</title>
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet">
+	<script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU " type="text/javascript">
+	</script>
+</head>
+<body>
+
+	<div id="map" class="geo-map" style="width: 100%; height: 600px"></div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-5 col-md-offset-1">
+				<div class="block-contacts">
+					<h1>Контакты</h1>
+					<p>г.Москва	<br>Варшаевское шоссе, дом 16, <br>корпус 1, офис №8</p>
+					<span>200 от м.Театральная<br>
+					+7 (499) 409-87-25</span><br>
+					<a href="#">info@yashsite.ru</a>
+				</div>
+			</div>
+		</div>
+	</div>
+		<section class="footer">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-3 col-md-offset-1">
+								<img src="img/icon-company.png" alt="">							
+								<p>Технология <br>Пожарной <br>Безопасности</p>
+							</div>	
+							<div class="col-md-4">
+								<span class="sertificat">Сертификация пожарной безопастности <br>Работаем по России и странами СНГ</span>
+							</div>
+							<div class="col-md-4">
+								<p class="contacts"><strong>+7 (499) 409-87-25</strong> <br>г.Москва Варшавское шоссе. <br> дом 16.корпус 1.офис №8</p>
+							</div>		
+						</div>
+					</div>
+		</section>
+
+
+
+
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+	<script src="http://getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+	<script>
+		ymaps.ready(function () {
+		    var myMap = new ymaps.Map('map', {
+		            center: [55.86249543, 37.42985669],
+		            zoom: 17
+		        }, {
+		            searchControlProvider: 'yandex#search'
+		        }),
+
+		        // Создаём макет содержимого.
+		        MyIconContentLayout = ymaps.templateLayoutFactory.createClass(
+		            '<div style="color:; font-weight: bold;">$[properties.iconContent]</div>'
+		        ),
+
+		        myPlacemark = new ymaps.Placemark(myMap.getCenter(), {
+		            hintContent: 'Наша организация',
+		            balloonContent: 'ТПБ - Технологии Пожарной Безопасности'
+		        }, {
+		            // Опции.
+		            // Необходимо указать данный тип макета.
+		            iconLayout: 'default#image',
+		            // Своё изображение иконки метки.
+		            iconImageHref: 'img/maps-and-flags.png',
+		            // Размеры метки.
+		            iconImageSize: [64, 64],
+		            // Смещение левого верхнего угла иконки относительно
+		            // её "ножки" (точки привязки).
+		            iconImageOffset: [-25, -60]
+		        });
+		        myMap.behaviors.disable('scrollZoom');
+		    myMap.geoObjects
+		        .add(myPlacemark)
+		        .add(myPlacemarkWithContent);
+		});
+	</script>
+</body>
+</html>
