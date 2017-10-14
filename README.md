@@ -69,6 +69,8 @@
 
 20.[Урок 21](https://vladimirg-web.github.io/lesson_21/index.html "ДЗ 21") - Parallax эффект для сайта. 
 
+21.[Урок 22](https://vladimirg-web.github.io/lesson_22/src/index.html "ДЗ 22") - Гео-карты для сайта. 
+
 * * * * *
 
 # Практика
