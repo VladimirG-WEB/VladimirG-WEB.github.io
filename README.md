@@ -93,6 +93,7 @@
    
    9. [Практика 9](https://vladimirg-web.github.io/Practika_9/src/index.html "Практика") - Верстаем схему работы и все включено 
    
+   10. [Практика 10](https://vladimirg-web.github.io/Practika_10/src/index.html "Практика") - Верстаем блок "Развеиваем сомнения" 
 
 * * * * *
 
