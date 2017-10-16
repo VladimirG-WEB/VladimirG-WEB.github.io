@@ -516,7 +516,7 @@ section {
   margin-top: 4rem;
 }
 .look {
-  background: url(../img/look/man-bg.png) center left -50rem no-repeat;
+  background: url(../img/look/man-bg.png) center no-repeat;
   background-size: cover;
 }
 .look-work {
