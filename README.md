@@ -71,6 +71,8 @@
 
 21.[Урок 22](https://vladimirg-web.github.io/lesson_22/src/index.html "ДЗ 22") - Гео-карты для сайта. 
 
+22.[Урок 23](http://vladimig-web.ru/ "ДЗ 23") - Хостинг
+
 * * * * *
 
 # Практика
@@ -94,6 +96,8 @@
    9. [Практика 9](https://vladimirg-web.github.io/Practika_9/src/index.html "Практика") - Верстаем схему работы и все включено 
    
    10. [Практика 10](https://vladimirg-web.github.io/Practika_10/src/index.html "Практика") - Верстаем блок "Развеиваем сомнения" 
+   
+   11.[Практика 11](https://vladimirg-web.github.io/Practika_11/src/index.html "Практика") - Верстаем блок "Материалы"  
 
 * * * * *
 
